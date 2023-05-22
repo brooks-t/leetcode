@@ -1,7 +1,7 @@
 // 1. Two Sum: https://leetcode.com/problems/two-sum/
 // Given an array of integer nums and an integer target, return indices of the two numbers such that they add up to target.
-const problemTitle = document.getElementById('problemTitle');
-problemTitle.innerHTML = '1. Two Sum';
+// const problemTitle = document.getElementById('problemTitle');
+// problemTitle.innerHTML = '1. Two Sum';
 
 console.log("----------my solution---------");
 const twoSum = function(nums, target) {
